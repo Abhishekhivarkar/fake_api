@@ -1,0 +1,25 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice Johnson", "username": "alicej", "image": "https://randomuser.me/api/portraits/women/1.jpg" },
+    { "id": 2, "name": "Bob Smith", "username": "bobsmith", "image": "https://randomuser.me/api/portraits/men/2.jpg" },
+    { "id": 3, "name": "Charlie Brown", "username": "charlieb", "image": "https://randomuser.me/api/portraits/men/3.jpg" },
+    { "id": 4, "name": "Diana Prince", "username": "diana_p", "image": "https://randomuser.me/api/portraits/women/4.jpg" },
+    { "id": 5, "name": "Ethan Hunt", "username": "ethanh", "image": "https://randomuser.me/api/portraits/men/5.jpg" },
+    { "id": 6, "name": "Fiona Gallagher", "username": "fionag", "image": "https://randomuser.me/api/portraits/women/6.jpg" },
+    { "id": 7, "name": "George Bailey", "username": "gbailey", "image": "https://randomuser.me/api/portraits/men/7.jpg" },
+    { "id": 8, "name": "Hannah Wells", "username": "hannahw", "image": "https://randomuser.me/api/portraits/women/8.jpg" },
+    { "id": 9, "name": "Ian Malcolm", "username": "ianm", "image": "https://randomuser.me/api/portraits/men/9.jpg" },
+    { "id": 10, "name": "Jane Foster", "username": "janef", "image": "https://randomuser.me/api/portraits/women/10.jpg" },
+    { "id": 11, "name": "Kyle Reese", "username": "kyle_reese", "image": "https://randomuser.me/api/portraits/men/11.jpg" },
+    { "id": 12, "name": "Laura Palmer", "username": "laurap", "image": "https://randomuser.me/api/portraits/women/12.jpg" },
+    { "id": 13, "name": "Mike Ross", "username": "miker", "image": "https://randomuser.me/api/portraits/men/13.jpg" },
+    { "id": 14, "name": "Nina Dobrev", "username": "ninad", "image": "https://randomuser.me/api/portraits/women/14.jpg" },
+    { "id": 15, "name": "Oscar Isaac", "username": "oscarisaac", "image": "https://randomuser.me/api/portraits/men/15.jpg" },
+    { "id": 16, "name": "Pam Beesly", "username": "pambeesly", "image": "https://randomuser.me/api/portraits/women/16.jpg" },
+    { "id": 17, "name": "Quentin Coldwater", "username": "quentinc", "image": "https://randomuser.me/api/portraits/men/17.jpg" },
+    { "id": 18, "name": "Rachel Green", "username": "rgreen", "image": "https://randomuser.me/api/portraits/women/18.jpg" },
+    { "id": 19, "name": "Steve Rogers", "username": "captainsteve", "image": "https://randomuser.me/api/portraits/men/19.jpg" },
+    { "id": 20, "name": "Tina Fey", "username": "tinaf", "image": "https://randomuser.me/api/portraits/women/20.jpg" }
+  ]
+}
+
